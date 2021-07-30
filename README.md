@@ -1,4 +1,4 @@
-什么值得买每日签到脚本yeah
+什么值得买每日签到脚本yeah！
 ===
 
 <p align="center">
